@@ -1,0 +1,5 @@
+{
+  "dependencies": {
+    "vue3-baidu-map-gl": "^2.0.1"
+  }
+}
